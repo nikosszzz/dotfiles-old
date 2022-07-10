@@ -146,3 +146,7 @@ XF86AudioRaiseVolume
 	amixer set Master 5%+
 XF86AudioMute
         amixer set Master toggle
+XF86AudioPause
+	playerctl play-pause
+XF86AudioPlay
+	playerctl play-pause
