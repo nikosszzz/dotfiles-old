@@ -1,0 +1,3 @@
+#!bin/sh
+feh --bg-scale --no-fehbg '/home/nikoszz/Downloads/nebulaWebb.png'
+
